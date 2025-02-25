@@ -1,0 +1,6 @@
+# remove virtual environment    
+myenv/
+
+# avoid static files (handled during deployment)
+myproject/myproject/__pycache__/
+myproject/staticfiles/
